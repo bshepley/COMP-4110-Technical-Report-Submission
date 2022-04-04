@@ -1,7 +1,7 @@
 import tkinter as tk
 import numpy as np
 
-GENERAL_DEBUG = True
+GENERAL_DEBUG = False
 
 
 class App(tk.Frame):
